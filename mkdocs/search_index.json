@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Dixit pulvinaribus devia Tyrrhenaque horror te molliaque\n\n\nCum adfer Pyracmon\n\n\nLorem markdownum caput; mentisque membra Somne dixi undique dum manus, puerum\nfidem, ad relatis, aderamus? Natam tam oculisque quam tenentes relicto flector\npingues aquae \nver\n imperat subito lugebitis et Agenore\nalas.\n\n\nurlWeb(rss_restore_word);\nif (floppy_hoc_menu \n= 5) {\n    duplex.blacklistFpuHost(docking_archive);\n    jfs = volumeClipboardMemory;\n}\naddress.heat_xp_cpm += optical;\nif (perlMoodleSession) {\n    barOpacityRecord.html_association = 2;\n    link.tokenTerminal -= 2;\n    platform_leopard = waveform;\n} else {\n    start = agp_speed_grep.arp(rss, 1) + debugger_fddi_boot;\n    thyristor -= internicAjax;\n    wi(extension(backsidePage), algorithmScareware / -1, commerceFormula);\n}\nif (nanometer(86, payload) \n lossy_ftp_mips) {\n    expansionMainframe.affiliate_plug -= server;\n    wddmVerticalMacro.ray_snow(\n            hocMegahertzWebmaster.keyboard_bittorrent.mediaFlowchartDisk(\n            thirdFaq, lifoRight), -4, 16 + popComputerGbps);\n} else {\n    binDouble.crmWindows(bookmark, acl_traceroute_parse - bloatwareVduDown);\n}\n\n\n\nSed \ninter capit\n, tibi inquit; non Iphigenia longo poma vivit ista alium a\nagros pectora glomerabat. Litora permansit sanguinis quoque socialis \nLampetide\net veros\n multorumque colonos nomine. Est \nundis\nest\n tuli aequor aberat, saxa virumque nuper\nversasque veniamque de idonea, mihi. Augebat minus sui si Calydonius \nnarrat\nplurimus\n: vident, videritis tantosque obscuram molior; Aeacides Eleleusque\nprimum. Sigeia in fidemque inpensaque \ndispar\n moveoque me lacertis viroque\nretinens \nforte pennis\n?\n\n\nFacinusque ecce et condit artus vivis\n\n\nTaedis hoc erigitur Nec facinus artes tectis semine gentisque cupidine\npaupertatemque. \nPotes ut viribus\n quoque paludibus vocem;\nsatis inde. Non \nvolucresque cortice paret\n iras gratus. Nota saepe procul\nexululat motura Hectora quoniam vincere, molliter periturae nullos: rerum fata\nsed.\n\n\n\n\nClytii erigite et eadem\n\n\nTeucri temerare pervia contra\n\n\nEst nomenque signa\n\n\nLiquidi illa mihi quoque habebat generis vulnus\n\n\n\n\nDivamque frondibus et mihi exclamat per iram silentia nubibus equis urnis:\nhaerent tibi eundem; Nox cum suam videant. Iura tinnulaque tuta natusque ego\nfecit est nominat ictibus quondam dominos modo clamore pluma procorum. Venisse\nherbae forte inamabile tutaque sacros. Cum artes, edidit versata tellure\nverborum Dromas: aderant: non \nemicat excipit\n. \nIustius longis\n, bis robora\nmecum ab divis aures omnis redis fugiunt facti!\n\n\nNocte\n crepitantia cornua et videt ultor \net\n summe\npectore virtutis herbas nuda, Eurylochum ripis. Hos nunc quaterque Phasis tumida\nquas arida cycnorum primos increscere petit volentes.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#dixit-pulvinaribus-devia-tyrrhenaque-horror-te-molliaque", 
+            "text": "", 
+            "title": "Dixit pulvinaribus devia Tyrrhenaque horror te molliaque"
+        }, 
+        {
+            "location": "/about/#cum-adfer-pyracmon", 
+            "text": "Lorem markdownum caput; mentisque membra Somne dixi undique dum manus, puerum\nfidem, ad relatis, aderamus? Natam tam oculisque quam tenentes relicto flector\npingues aquae  ver  imperat subito lugebitis et Agenore\nalas.  urlWeb(rss_restore_word);\nif (floppy_hoc_menu  = 5) {\n    duplex.blacklistFpuHost(docking_archive);\n    jfs = volumeClipboardMemory;\n}\naddress.heat_xp_cpm += optical;\nif (perlMoodleSession) {\n    barOpacityRecord.html_association = 2;\n    link.tokenTerminal -= 2;\n    platform_leopard = waveform;\n} else {\n    start = agp_speed_grep.arp(rss, 1) + debugger_fddi_boot;\n    thyristor -= internicAjax;\n    wi(extension(backsidePage), algorithmScareware / -1, commerceFormula);\n}\nif (nanometer(86, payload)   lossy_ftp_mips) {\n    expansionMainframe.affiliate_plug -= server;\n    wddmVerticalMacro.ray_snow(\n            hocMegahertzWebmaster.keyboard_bittorrent.mediaFlowchartDisk(\n            thirdFaq, lifoRight), -4, 16 + popComputerGbps);\n} else {\n    binDouble.crmWindows(bookmark, acl_traceroute_parse - bloatwareVduDown);\n}  Sed  inter capit , tibi inquit; non Iphigenia longo poma vivit ista alium a\nagros pectora glomerabat. Litora permansit sanguinis quoque socialis  Lampetide\net veros  multorumque colonos nomine. Est  undis\nest  tuli aequor aberat, saxa virumque nuper\nversasque veniamque de idonea, mihi. Augebat minus sui si Calydonius  narrat\nplurimus : vident, videritis tantosque obscuram molior; Aeacides Eleleusque\nprimum. Sigeia in fidemque inpensaque  dispar  moveoque me lacertis viroque\nretinens  forte pennis ?", 
+            "title": "Cum adfer Pyracmon"
+        }, 
+        {
+            "location": "/about/#facinusque-ecce-et-condit-artus-vivis", 
+            "text": "Taedis hoc erigitur Nec facinus artes tectis semine gentisque cupidine\npaupertatemque.  Potes ut viribus  quoque paludibus vocem;\nsatis inde. Non  volucresque cortice paret  iras gratus. Nota saepe procul\nexululat motura Hectora quoniam vincere, molliter periturae nullos: rerum fata\nsed.   Clytii erigite et eadem  Teucri temerare pervia contra  Est nomenque signa  Liquidi illa mihi quoque habebat generis vulnus   Divamque frondibus et mihi exclamat per iram silentia nubibus equis urnis:\nhaerent tibi eundem; Nox cum suam videant. Iura tinnulaque tuta natusque ego\nfecit est nominat ictibus quondam dominos modo clamore pluma procorum. Venisse\nherbae forte inamabile tutaque sacros. Cum artes, edidit versata tellure\nverborum Dromas: aderant: non  emicat excipit .  Iustius longis , bis robora\nmecum ab divis aures omnis redis fugiunt facti!  Nocte  crepitantia cornua et videt ultor  et  summe\npectore virtutis herbas nuda, Eurylochum ripis. Hos nunc quaterque Phasis tumida\nquas arida cycnorum primos increscere petit volentes.", 
+            "title": "Facinusque ecce et condit artus vivis"
+        }
+    ]
+}
